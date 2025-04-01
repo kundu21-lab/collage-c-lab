@@ -1,7 +1,7 @@
 #include <stdio.h>
 intmain ()
 {
-	printf ("hii") ;
+	printf ("sohani kundu my kurkuri") ;
 	
 	return 0 ;
 }
